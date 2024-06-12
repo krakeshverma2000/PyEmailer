@@ -8,8 +8,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/PyEmailer/count.svg)
 
-**Blog On Python, Machine Learning and Data Science Visit [CodePerfectPLus](http://codeperfectplus.herokuapp.com/)**
-
 ## Create App Password in gmail.
 
 - GO to Account [setting/Security](https://myaccount.google.com/security)
@@ -49,5 +47,4 @@ if __name__ == "__main__":
 - Project: PyEmailer
 - Author: CodePerfectPlus
 - Language: Python
-- Github: https://github.com/codePerfectPlus
-- Website: http://codeperfectplus.herokuapp.com/
+
