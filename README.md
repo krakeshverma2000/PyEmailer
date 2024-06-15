@@ -37,6 +37,7 @@ if __name__ == "__main__":
     pyemail.sendEmail(email_subject, email_content, listOfEmail)
 ```
 
+
 ## Upcoming features
 
 - file attachment in email
